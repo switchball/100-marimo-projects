@@ -134,6 +134,7 @@ dmypy.json
 
 # Workspaces
 workspaces/
+MNIST/
 
 # Manim Mdeia file
 my_manim
