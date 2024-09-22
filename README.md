@@ -16,9 +16,9 @@
 
 | 教程编号 | 教程标题           | 视频链接                         | 源代码          |
 |----------|------------------|--------------------------------|----------------|
-| 001      | Marimo 入门       | [B站视频链接](https://bilibili.com) | [源代码](./tutorial_001/) |
-| 002      | 布局系统详解       | [B站视频链接](https://bilibili.com) | [源代码](./tutorial_002/) |
-| 003      | 组件使用指南       | [B站视频链接](https://bilibili.com) | [源代码](./tutorial_003/) |
+| 001      | Marimo 导引      | [初见-这是伪装成markdown的编程工具？](https://www.bilibili.com/video/BV1eMpqekEAf) | [源代码](./tutorial/e01_first_guide.py) |
+| 002      | 时间滑动条       | [古希腊掌管时间的神（日期选择与滑动条）](https://www.bilibili.com/video/BV1jrtseFEXQ) | [源代码](./tutorial/e02_time_progress.py) |
+| 003      | 文件浏览和编辑    | [谁是幸运儿（文件浏览与代码编辑器）](https://www.bilibili.com/video/BV19Rt6evEhU) | [源代码](./tutorial/e03_random_file.py) |
 
 
 # 联系方式
