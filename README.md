@@ -19,6 +19,7 @@
 | 001      | Marimo 导引      | [初见-这是伪装成markdown的编程工具？](https://www.bilibili.com/video/BV1eMpqekEAf) | [源代码](./tutorial/e01_first_guide.py) | 2024.09.09 |
 | 002      | 时间滑动条       | [古希腊掌管时间的神（日期选择与滑动条）](https://www.bilibili.com/video/BV1jrtseFEXQ) | [源代码](./tutorial/e02_time_progress.py) | 2024.09.16 |
 | 003      | 文件浏览和编辑    | [谁是幸运儿（文件浏览与代码编辑器）](https://www.bilibili.com/video/BV19Rt6evEhU) | [源代码](./tutorial/e03_random_file.py) | 2024.09.21 |
+| 004      | 文本输入与提交    | [热点检索工具（热点之词云展示）](https://www.bilibili.com/video/BV1CtxyeXEbc) | [源代码](./tutorial/e04_hot_search.py) | 2024.09.29 |
 
 ### 如何使用本教程源码？
 
