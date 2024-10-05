@@ -14,12 +14,13 @@
 
 ## 进度表
 
-| 教程编号 | 教程标题           | 视频链接                         | 源代码          | 更新于 |
-|----------|------------------|--------------------------------|----------------|-----------|
-| 001      | Marimo 导引      | [初见-这是伪装成markdown的编程工具？](https://www.bilibili.com/video/BV1eMpqekEAf) | [源代码](./tutorial/e01_first_guide.py) | 2024.09.09 |
-| 002      | 时间滑动条       | [古希腊掌管时间的神（日期选择与滑动条）](https://www.bilibili.com/video/BV1jrtseFEXQ) | [源代码](./tutorial/e02_time_progress.py) | 2024.09.16 |
-| 003      | 文件浏览和编辑    | [谁是幸运儿（文件浏览与代码编辑器）](https://www.bilibili.com/video/BV19Rt6evEhU) | [源代码](./tutorial/e03_random_file.py) | 2024.09.21 |
-| 004      | 文本输入与提交    | [热点检索工具（热点之词云展示）](https://www.bilibili.com/video/BV1CtxyeXEbc) | [源代码](./tutorial/e04_hot_search.py) | 2024.09.29 |
+| 教程编号 | 教程标题           | 视频链接                         | 源代码          | 浏览器预览* | 更新于 |
+|----------|------------------|--------------------------------|----------------|-----------|-----------|
+| 001      | Marimo 导引      | [初见-这是伪装成markdown的编程工具？](https://www.bilibili.com/video/BV1eMpqekEAf) | [源代码](./tutorial/e01_first_guide.py) | - | 2024.09.09 |
+| 002      | 时间滑动条       | [古希腊掌管时间的神（日期选择与滑动条）](https://www.bilibili.com/video/BV1jrtseFEXQ) | [源代码](./tutorial/e02_time_progress.py) | - | 2024.09.16 |
+| 003      | 文件浏览和编辑    | [谁是幸运儿（文件浏览与代码编辑器）](https://www.bilibili.com/video/BV19Rt6evEhU) | [源代码](./tutorial/e03_random_file.py) | - | 2024.09.21 |
+| 004      | 文本输入与提交    | [热点检索工具（热点之词云展示）](https://www.bilibili.com/video/BV1CtxyeXEbc) | [源代码](./tutorial/e04_hot_search.py) | - | 2024.09.29 |
+| 005      | UI 批处理       | [登录框（Batch 批量化）](https://www.bilibili.com/video/BV1uk1DYjEAu) | [源代码](./tutorial/e05_login_box.py) | [r02qcv](https://marimo.app/?slug=r02qcv) | 2024.10.05 |
 
 ### 如何使用本教程源码？
 
@@ -30,6 +31,11 @@
 cd tutorial
 marimo edit e02_time_progress.py
 ```
+
+### 什么是浏览器预览？
+借助 micropip 和浏览器的 wasm 机制，marimo 可以将 python 完全运行在浏览器中，无需本地环境即可运行。可以查阅表格对应链接的演示效果。
+
+但目前只有部分教程支持，一部分是由于网络请求的跨域，另一部分是有些包尚且不兼容，希望这个问题后续有办法解决 :-)
 
 # 联系方式
 
