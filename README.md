@@ -20,7 +20,8 @@
 | 002      | 时间滑动条       | [古希腊掌管时间的神（日期选择与滑动条）](https://www.bilibili.com/video/BV1jrtseFEXQ) | [源代码](./tutorial/e02_time_progress.py) | - | 2024.09.16 |
 | 003      | 文件浏览和编辑    | [谁是幸运儿（文件浏览与代码编辑器）](https://www.bilibili.com/video/BV19Rt6evEhU) | [源代码](./tutorial/e03_random_file.py) | - | 2024.09.21 |
 | 004      | 文本输入与提交    | [热点检索工具（热点之词云展示）](https://www.bilibili.com/video/BV1CtxyeXEbc) | [源代码](./tutorial/e04_hot_search.py) | - | 2024.09.29 |
-| 005      | UI 批处理       | [登录框（Batch 批量化）](https://www.bilibili.com/video/BV1uk1DYjEAu) | [源代码](./tutorial/e05_login_box.py) | [r02qcv](https://marimo.app/?slug=r02qcv) | 2024.10.05 |
+| 005      | UI 批处理       | [登录框（Batch 批量化）](https://www.bilibili.com/video/BV1uk1DYjEAu) | [源代码](./tutorial/e05_login_box.py) | [![Open](https://marimo.io/shield.svg)](https://marimo.app/?slug=r02qcv) | 2024.10.05 |
+| 006      | 数组和字典       | [点杯奶茶（数组化与字典化）](https://www.bilibili.com/video/BV11f1eY8Ers) | [源代码](./tutorial/e06_dict_and_array.py) | [![Open](https://marimo.io/shield.svg)](https://marimo.app/?slug=ypougm) | 2024.10.06 |
 
 ### 如何使用本教程源码？
 
